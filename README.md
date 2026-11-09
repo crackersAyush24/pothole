@@ -47,7 +47,7 @@ pothole_project/
 Clone this repository and install all required Python packages:
 
 # Clone the repository
-git clone [https://github.com/your-username/pothole-detection-yolov8.git](https://github.com/your-username/pothole-detection-yolov8.git)
+git clone [https://github.com/crackersAyush24/pothole.git)
 cd pothole-detection-yolov8
 
 # Install dependencies
